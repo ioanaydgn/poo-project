@@ -219,6 +219,9 @@ POO_porject_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 POO_porject_SOURCE_DIR:STATIC=/Users/mertaydogan/Developer/POO-porject
 
+//The directory containing a CMake configuration file for SFML.
+SFML_DIR:PATH=SFML_DIR-NOTFOUND
+
 
 ########################
 # INTERNAL cache entries
